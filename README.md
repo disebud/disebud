@@ -19,9 +19,9 @@
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=disebud&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=disebud&layout=compact" height=180 />
+<p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=disebud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" alt="Didik Setya Budi GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disebud&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=454545" />
 </p>
 
 ### Let's connect!
@@ -47,3 +47,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
