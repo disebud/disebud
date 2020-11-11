@@ -4,7 +4,7 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio%20Code-green?&logo=android%20studio%20code&logoColor=green" />
+    <img src="https://img.shields.io/badge/IDE-Android%20Studio-green?&logo=android%20studio&logoColor=green" />
     <img src="https://gpvc.arturio.dev/disebud" />
 </p>
 
@@ -12,7 +12,7 @@
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on ... </br>
-    - 🌱 I’m currently learning SwiftUI and UIKit </br>
+    - 🌱 I’m currently learning Android Kotlin and Java </br>
     - 👯 I’m looking to collaborate on ... </br>
     - 🤔 I’m looking for help with ... </br>
     - 💬 Ask me about anything.</br>
