@@ -30,7 +30,7 @@
   
   <a href="https://https://facebook.com/didiksetya.budi" target="blank"><img src="https://img.shields.io/badge/Didik_Setya_Budi-30302f?style=flat&logo=facebook" /></a>
   <a href="https://https://instagram.com/didiksetyabudi_" target="blank"><img src="https://img.shields.io/badge/@didiksetyabudi_-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://https://twitter.com/didiksetyabudi_" target="blank"><img src="https://img.shields.io/badge/@didiksetyabudi_-30302f?style=flat&logo=twitter" /></a>
+    <a href="https://https://twitter.com/DidiksetyaBudi_" target="blank"><img src="https://img.shields.io/badge/@didiksetyabudi_-30302f?style=flat&logo=twitter" /></a>
 
 </p>
 
